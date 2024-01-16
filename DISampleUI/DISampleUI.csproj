@@ -87,6 +87,18 @@
       <Project>{68E14578-223B-4774-99D0-54519ADEBE40}</Project>
       <Name>DISampleBLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DISampleDAL\DISampleDAL.csproj">
+      <Project>{D19E354E-7F54-4A01-8372-C5ABA7C0ABCA}</Project>
+      <Name>DISampleDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DISampleISkirtBLL\DISampleISkirtBLL.csproj">
+      <Project>{E01A3F13-36C9-4233-93D0-1811B257EE9E}</Project>
+      <Name>DISampleISkirtBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DISampleISkirtDAL\DISampleISkirtDAL.csproj">
+      <Project>{7DB11E7E-B2D6-47DF-A5E3-09E4BD57E3CA}</Project>
+      <Name>DISampleISkirtDAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DISampleModel\DISampleModel.csproj">
       <Project>{5C24C8F9-68C5-47BD-ADF9-3B846348FA6F}</Project>
       <Name>DISampleModel</Name>

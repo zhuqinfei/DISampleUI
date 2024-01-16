@@ -15,3 +15,7 @@ D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.csproj.CoreCompileI
 D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.csproj.CopyComplete
 D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.exe
 D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.pdb
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleISkirtDAL.dll
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleISkirtDAL.pdb
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleISkirtBLL.dll
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleISkirtBLL.pdb

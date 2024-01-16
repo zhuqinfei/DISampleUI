@@ -9,3 +9,7 @@ D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.csproj.CoreCompil
 D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.csproj.CopyComplete
 D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.dll
 D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.pdb
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleISkirtDAL.dll
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleISkirtDAL.pdb
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleISkirtBLL.dll
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleISkirtBLL.pdb

@@ -1,0 +1,9 @@
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\bin\Debug\DISampleISkirtBLL.dll
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\bin\Debug\DISampleISkirtBLL.pdb
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\bin\Debug\DISampleModel.dll
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\bin\Debug\DISampleModel.pdb
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\obj\Debug\DISampleISkirtBLL.csproj.AssemblyReference.cache
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\obj\Debug\DISampleISkirtBLL.csproj.CoreCompileInputs.cache
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\obj\Debug\DISampleISkirtBLL.csproj.CopyComplete
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\obj\Debug\DISampleISkirtBLL.dll
+D:\c#练习项目\DISampleUI\DISampleISkirtBLL\obj\Debug\DISampleISkirtBLL.pdb

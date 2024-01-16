@@ -1,4 +1,5 @@
-﻿using DISampleModel;
+﻿using DISampleISkirtDAL;
+using DISampleModel;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -8,7 +9,7 @@ namespace DISampleDAL
     /// <summary>
     /// 数据访问
     /// </summary>
-    public class SkirtDAL
+    public class SkirtDAL:ISkirtDAL
     {
         private readonly List<Skirt> skirts;
         /// <summary>
@@ -23,6 +24,20 @@ namespace DISampleDAL
                 new Skirt { Id = 3, Name = "超短裙", Description = "漂亮又好看" },
             };
         }
+        /// <summary>
+        /// 根据关键字统计多少条裙子
+        /// </summary>
+        /// <param name="keys"></param>
+        /// <returns></returns>
+        public int CountByKeys(string keys)
+        {
+            if (skirts==null)
+            {
+                return 0;
+            }
+            return skirts.Where(s => s.Name.Contains(keys)).Count();
+        }
+
         /// <summary>
         /// 获取所有裙子
         /// </summary>

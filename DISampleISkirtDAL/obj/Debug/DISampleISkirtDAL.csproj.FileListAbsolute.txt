@@ -1,0 +1,9 @@
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\bin\Debug\DISampleISkirtDAL.dll
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\bin\Debug\DISampleISkirtDAL.pdb
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\bin\Debug\DISampleModel.dll
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\bin\Debug\DISampleModel.pdb
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\obj\Debug\DISampleISkirtDAL.csproj.AssemblyReference.cache
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\obj\Debug\DISampleISkirtDAL.csproj.CoreCompileInputs.cache
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\obj\Debug\DISampleISkirtDAL.csproj.CopyComplete
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\obj\Debug\DISampleISkirtDAL.dll
+D:\c#练习项目\DISampleUI\DISampleISkirtDAL\obj\Debug\DISampleISkirtDAL.pdb

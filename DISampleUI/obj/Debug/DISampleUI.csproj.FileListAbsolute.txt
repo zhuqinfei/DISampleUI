@@ -1,0 +1,17 @@
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleUI.exe.config
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleUI.exe
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleUI.pdb
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleBLL.dll
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleModel.dll
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleDAL.dll
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleBLL.pdb
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleModel.pdb
+D:\c#练习项目\DISampleUI\DISampleUI\bin\Debug\DISampleDAL.pdb
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.csproj.AssemblyReference.cache
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.Form1.resources
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.Properties.Resources.resources
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.csproj.GenerateResource.cache
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.csproj.CoreCompileInputs.cache
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.csproj.CopyComplete
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.exe
+D:\c#练习项目\DISampleUI\DISampleUI\obj\Debug\DISampleUI.pdb

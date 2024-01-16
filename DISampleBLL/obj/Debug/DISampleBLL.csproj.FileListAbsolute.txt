@@ -1,0 +1,11 @@
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleBLL.dll
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleBLL.pdb
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleDAL.dll
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleModel.dll
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleDAL.pdb
+D:\c#练习项目\DISampleUI\DISampleBLL\bin\Debug\DISampleModel.pdb
+D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.csproj.AssemblyReference.cache
+D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.csproj.CoreCompileInputs.cache
+D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.csproj.CopyComplete
+D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.dll
+D:\c#练习项目\DISampleUI\DISampleBLL\obj\Debug\DISampleBLL.pdb
